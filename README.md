@@ -2,7 +2,7 @@
 
 ## My Goal
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps I’ll build in the future. This app will teach how to make apps with functionality using setState() inside Stateful Flutter widgets.
+The objective of this tutorial is an introduction to the core programming concepts that will form the foundation of most of the apps I’ll build in the future. This app will teach how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
 
 
